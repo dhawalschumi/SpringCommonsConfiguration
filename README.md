@@ -1,9 +1,10 @@
 # Spring Commons Configuration (Centralized common configuration)
 
 Technologies used
-    - Spring 4.2
-    - Apache Commons Configuration
-    - MySql
+    A) Spring 4.2
+    B) Apache Commons Configuration
+    C) MySql
+    D) Spring Integration (Apache Commons)
 
 1. When the application is running on multiple servers, then the configurations(maintained in properties file) gets difficult
    to maintain when just few properties are changed, A new release needs to happen.
